@@ -36,7 +36,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-    <a class="navbar-brand" href="panel_administrador">Encuesta</a>
+    <a class="navbar-brand" href="panel_usuario">Encuesta</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -48,9 +48,9 @@
 
         <div class="navbar-nav">
 
-            <a class="nav-link active" href="panel_administrador">Inicio <span class="sr-only">(current)</span></a>
+            <a class="nav-link active" href="panel_usuario">Inicio <span class="sr-only">(current)</span></a>
 
-            <a class="nav-link" href="carga_masiva">Carga Masiva</a>
+            <a class="nav-link" href="barret">Perfil</a>
 
         </div>
 

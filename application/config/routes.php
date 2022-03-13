@@ -86,10 +86,19 @@ $route['getCargo'] = 'administrador/getCargo';
 $route['editarEstadoCargo'] = 'administrador/editarEstadoCargo';
 $route['editarNombreCargo'] = 'administrador/editarNombreCargo';
 
+//Encuesta 
 
 
 
 
 
+//Usuario
+$route['login_usuario']= 'usuario/login_usuario';
+$route['iniciarSesionUsuario']= 'usuario/iniciarSesionUsuario'; 
 
+$route['panel_usuario']= 'usuario/panel_usuario'; 
+$route['barrat']= 'usuario/barrat'; 
+$route['disc']= 'usuario/disc'; 
+$route['wonderlic']= 'usuario/wonderlic'; 
+$route['alerta']= 'usuario/alerta'; 
 
