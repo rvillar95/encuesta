@@ -37,6 +37,7 @@ $route['editarNombreCargo'] = 'administrador/editarNombreCargo';
 
 
 
+
 //Usuario
 $route['login_usuario']= 'usuario/login_usuario';
 $route['iniciarSesionUsuario']= 'usuario/iniciarSesionUsuario'; 
@@ -66,6 +67,7 @@ $route['terminoWonderlic'] = 'usuario/terminoWonderlic';
 $route['terminoAlerta'] = 'usuario/terminoAlerta'; 
 
 
+
 //$route['revisionWonderlic'] = 'encuesta/revisionWonderlic';  
 
 $route['test'] = 'welcome/test';  
@@ -75,6 +77,15 @@ $route['getTokens'] = 'administrador/getTokens';
 $route['detalle_encuesta'] = 'administrador/detalle_encuesta';  
 
 
-$route['descargarPDF'] = 'administrador/descargarPDF';  
 
+$route['descargarPDF'] = 'administrador/descargarPDF';  
+//Usuario
+$route['login_usuario']= 'usuario/login_usuario';
+$route['iniciarSesionUsuario']= 'usuario/iniciarSesionUsuario'; 
+
+$route['panel_usuario']= 'usuario/panel_usuario'; 
+$route['barrat']= 'usuario/barrat'; 
+$route['disc']= 'usuario/disc'; 
+$route['wonderlic']= 'usuario/wonderlic'; 
+$route['alerta']= 'usuario/alerta'; 
 
