@@ -7,10 +7,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'solucion2',
-	'password' => '84358544Rafa',
-	'database' => 'solucion2_encuesta',
+    'hostname' => 'localhost',
+	'username' => 'vinaratr',
+	'password' => 'hPMO{lV8shfQ',
+	'database' => 'vinaratr_encuesta',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
